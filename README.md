@@ -38,7 +38,7 @@ Here are the steps to run ESP32
 
 - First step
 
-you need to download Arduino IDE by https://www.arduino.cc/en/software
+you need to download Arduino IDE by [click here](https://www.arduino.cc/en/software)
 
 - Second step
 
@@ -90,7 +90,7 @@ now we want to make sure that everything is working so we are going to make the 
 ![image](https://user-images.githubusercontent.com/107868812/179487054-ca5260c6-009e-496d-a7a4-97d2ab2c533c.png)
 
 
-### -------
+### DONE -------
 
 
 
