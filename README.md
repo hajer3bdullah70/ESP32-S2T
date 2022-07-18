@@ -4,7 +4,7 @@ A speech to text website using JavaScript,html & css
 
 
 I created a site for it, and supports both languages
-  - Arabia      
+  - Arabic     
   - English 
 
 ### From here go to see my site [here](https://autonomous-juries.000webhostapp.com/)
